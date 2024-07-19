@@ -1,4 +1,4 @@
-# C A T A P U L T
+# rui-AI
 
 aspida と frourio を用いた TypeScript フレームワーク
 
